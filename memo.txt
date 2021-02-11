@@ -1,0 +1,3 @@
+cd C:\Users\tomyu\OneDrive\ドキュメント\JSstudy\nodejs-websocket
+node server.js
+http://localhost:3000/
